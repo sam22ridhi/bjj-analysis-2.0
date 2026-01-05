@@ -1,0 +1,9 @@
+streamlit
+requests
+fastapi
+uvicorn
+python-multipart
+pydantic
+google-generativeai
+opencv-python-headless
+numpy
